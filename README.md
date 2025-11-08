@@ -1,6 +1,6 @@
 # Francesco Giordano
 
-Welcome! This repository hosts the source code for my **personal academic webpage**, available at [yourwebsite.com](https://yourwebsite.com).
+Welcome! This repository hosts the source code for my **personal academic webpage**
 
 ## About Me
 I am a [your position, e.g., PhD candidate / researcher / lecturer] at [your institution].  
