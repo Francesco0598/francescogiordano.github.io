@@ -11,7 +11,7 @@ My research interests include:
 - Selection and mentorship
 
 Other:
-- I am collaborating to the ION Management Science Lab on topics related to selection and mentorship of startups 
+- I am collaborating with the ION Management Science Lab on topics related to selection and mentorship of startups 
 - I am alumnus of QTEM and since my graduation I have been often coach for the QTEM Data Challenge 
 
 You can learn more about my work, publications, and projects on this website.
