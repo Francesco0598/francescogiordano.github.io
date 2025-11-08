@@ -2,7 +2,7 @@
 
 👋 Welcome! This repository hosts the source code for my **personal academic webpage**, available at [yourwebsite.com](https://yourwebsite.com).
 
-## 🧑‍💻 About Me
+## About Me
 I am a [your position, e.g., PhD candidate / researcher / lecturer] at [your institution].  
 My research interests include:
 - [Research area 1]
@@ -11,14 +11,14 @@ My research interests include:
 
 You can learn more about my work, publications, and projects on my website.
 
-## 🌐 Website
+## Website
 Visit **[yourwebsite.com](https://yourwebsite.com)** to explore:
 - 📄 Publications  
 - 💬 Research projects  
 - 🎓 Teaching materials  
 - 📬 Contact information  
 
-## ⚙️ Technical Details
+## Technical Details
 This site is built using:
 - [Jekyll / Hugo / Quarto / React / plain HTML — choose one]
 - Hosted on **GitHub Pages**
