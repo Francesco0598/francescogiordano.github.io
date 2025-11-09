@@ -7,7 +7,7 @@ I am a PhD Candidate at HEC Paris. I am generally interested in topics of games 
 My research interests include:
 - Game Theory
 - Mechanism Design and Information Design
-- Cognitive complexity
+- Cognitive uncertainty
 - Selection and mentorship
 
 Other:
